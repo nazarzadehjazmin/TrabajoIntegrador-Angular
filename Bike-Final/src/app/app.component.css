@@ -1,0 +1,29 @@
+table{
+    width:100%;
+    margin-top:5px;
+    border:0.5px;
+    padding:1.5px;
+}
+
+a{
+    font-size:20px;
+}
+
+footer { 
+    background-color: #b45008;
+    /*display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;*/
+}
+
+
+
+
+footer { 
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    /*ESTA BIEN ESTO????*/
+}

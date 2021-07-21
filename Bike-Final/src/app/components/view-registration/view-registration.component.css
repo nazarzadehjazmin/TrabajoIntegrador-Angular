@@ -1,0 +1,14 @@
+.formulario{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 350px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+#boton{
+    border-style:solid;
+    border-color: rgb(189, 86, 86);
+    margin-left: 15px;
+    margin-right:445px;
+    background-color:rgb(243, 122, 122);
+}
